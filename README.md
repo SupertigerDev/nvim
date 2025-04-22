@@ -6,5 +6,5 @@ npm install -g @prisma/language-server
 npm i -g vscode-langservers-extracted
 ```
 
-Toggle Explorer: `SPACE + E`  
-Create new file: `M`
+Toggle Explorer: `space + e`  
+Create new file: `r`
