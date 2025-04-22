@@ -7,4 +7,4 @@ npm i -g vscode-langservers-extracted
 ```
 
 Toggle Explorer: `SPACE + E`  
-create new file: `M`
+Create new file: `M`
